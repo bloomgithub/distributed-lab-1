@@ -1,10 +1,8 @@
 package main
 
 import (
-	"bufio"
 	"flag"
 	"net"
-	"fmt"
 )
 
 type Message struct {
